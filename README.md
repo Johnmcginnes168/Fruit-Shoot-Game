@@ -1,4 +1,3 @@
-```markdown
 # 🍍 Fruit Shoot
 
 A simple and fun game built using [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/) where your goal is to click the pineapple to earn points—without hitting the apple!
@@ -73,7 +72,7 @@ Make sure your `images/` folder contains:
 
 ##  Screenshots
 
-
+![Screenshot of Output](Fruit Shoot/images/Screenshot1.jpg)
 
 ---
 
