@@ -72,12 +72,6 @@ Make sure your `images/` folder contains:
 
 ##  Screenshots
 
-![Screenshot of Output](Fruit Shoot/images/Screenshot1.png)
+![Screenshot of Output](images/Screenshot1.png)
 
 ---
-
-
-## License
-
-MIT License
-```
