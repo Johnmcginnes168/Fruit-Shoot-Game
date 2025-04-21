@@ -6,12 +6,6 @@ A simple and fun game built using [Pygame Zero](https://pygame-zero.readthedocs.
 
 ##  How to Play
 
-- Click on the **pineapple** to increase your score.
-- Click on the **apple** and lose a point (rude).
-- Click **anywhere else** and be reminded you missed!
-- Reach **more than 10 points** to win—or drop below 0 to lose.
-- After game over, click anywhere to **restart** and try again.
-
 
 1. **Download the Game:**
    - Go to the [Releases](https://github.com/Johnmcginnes168/Fruit-Shoot-Game/releases/tag/V1.1) tab on GitHub.
