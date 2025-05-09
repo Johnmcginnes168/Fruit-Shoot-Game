@@ -1,0 +1,11 @@
+# Force Python as the main language
+*.py linguist-detectable=true
+
+# Ignore assets and other non-code files
+*.html linguist-detectable=false
+*.ico linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.js linguist-detectable=false
+*.tex linguist-detectable=false
+README.md linguist-language=Markdown
