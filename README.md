@@ -6,41 +6,38 @@ A simple and fun game built using [Pygame Zero](https://pygame-zero.readthedocs.
 
 ##  How to Play
 
-- Click on the **pineapple** to increase your score.
-- Click on the **apple** and lose a point (rude).
-- Click **anywhere else** and be reminded you missed!
-- Reach **more than 10 points** to win—or drop below 0 to lose.
-- After game over, click anywhere to **restart** and try again.
+
+1. **Download the Game:**
+   - Go to the [Releases](https://github.com/Johnmcginnes168/Fruit-Shoot-Game/releases/tag/V1.1) tab on GitHub.
+   - Download the **`Fruit_Shoot_V1.1.exe`** file from the assets section.
+
+2. **Run the Game:**
+   - Once the `.exe` file is downloaded, simply double-click on it to run the game.
+   - The game will open in a separate window, and you can start playing right away!
+
+3. **Gameplay Instructions:**
+   - Click on the **pineapple** to score points (watch out for the **apple** — clicking it will cost you points!).
+   - Try to get a high score, and enjoy the game!
+
+4. **Replaying the Game:**
+   - Once the game ends, click anywhere on the screen to restart and try again.
 
 ---
 
-##  Getting Started
+###  **Technical Requirements:**
+- **Operating System:** Windows (The `.exe` file is built for Windows only).
+- **No Installation Required:** Just download the `.exe` file, and you're ready to play!
 
-### Requirements
+---
 
-- Python 3.x
-- Pygame Zero (`pip install pgzero`)
+### Bonus: **For Developers:**
+If you're interested in the code, feel free to download the full source code and build the game yourself.
 
-### Run the Game
-
-You can run the game in **two ways**:
-
-#### 🖱 Option 1: Double-click the Python file  
-If your system is set up to run `.py` files, you can just **double-click `pineapple_shooter.py`** to start the game.  
-*(Make sure your images folder is in the same directory.)*
-
-####  Option 2: Run from terminal
-
-```bash
-pgzrun pineapple_shooter.py
-```
-
-This is the recommended method, especially if you're making changes or debugging.
-
-Make sure your `images/` folder contains:
-- `pineapple.png`
-- `apple.png`
-
+- Clone this repository or download the source.
+- If you're running on your own machine, you’ll need Python 3.x installed, along with dependencies:
+  - `pgzrun` (Pygame Zero)
+  - `pygame`
+  
 ---
 
 
